@@ -19,7 +19,7 @@
     "@testing-library/user-event": "^7.2.1",
     "animate.css": "^4.1.0",
     "apexcharts": "^3.19.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prismjs": "^1.19.0",
     "react": "^16.12.0",
     "react-animate-on-scroll": "^2.1.5",
